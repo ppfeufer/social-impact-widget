@@ -1,0 +1,88 @@
+@charset "UTF-8";
+.social_impact_widget ul {margin:0 !important;}
+.social_impact_widget li {border:none !important; padding:0 !important; list-style:none !important; background:none !important;}
+.social-impact-widget {
+	margin: 10px 0;
+	border-radius: 5px;
+	border: 1px solid #808080;
+	padding: 2px;
+	max-width: 250px;
+	-webkit-box-shadow: 0 0 3px 0 rgba(125,125,125,0.5), inset 0 0 0 2px #ccc;
+	-moz-box-shadow: 0 0 3px 0 rgba(125,125,125,0.5), inset 0 0 0 2px #ccc;
+	-ms-box-shadow: 0 0 3px 0 rgba(125,125,125,0.5), inset 0 0 0 2px #ccc;
+	box-shadow: 0 0 3px 0 rgba(125,125,125,0.5), inset 0 0 0 2px #ddd;
+}
+.social-impact-widget:hover {
+	-webkit-box-shadow: inset 0 0 0 2px #ddd;
+	-moz-box-shadow: inset 0 0 0 2px #ddd;
+	-ms-box-shadow: inset 0 0 0 2px #ddd;
+	box-shadow: inset 0 0 0 2px #ddd;
+}
+.social-impact-widget:active {
+	border: 1px solid #b3b3b3;
+}
+.social-impact-widget a {
+	display: block;
+	color:#373737 !important;
+	padding: 0 0 0 58px !important;
+	background: #ececec;
+	background: -webkit-linear-gradient(top, #ececec, #ddd);
+	background: -moz-linear-gradient(top, #ececec, #ddd);
+	background: -o-linear-gradient(top, #ececec, #ddd);
+	background: -ms-linear-gradient(top, #ececec, #ddd);
+	background: linear-gradient(top, #ececec, #ddd);
+	border-radius: 4px;
+	font-weight:normal;
+}
+
+.social-impact-widget a:hover {
+	color:#c30 !important;
+	text-decoration:none;
+}
+.social-impact-widget .social-impact-count {
+	font-size: 14px;
+}
+.social-impact-widget > a > span {
+	padding: 10px;
+	border-radius: 0 3px 3px 0;
+	display: block;
+	font-size: 18px;
+	line-height:100%;
+	background: -webkit-linear-gradient(top , #fff, #f0f0f0);
+	background: -moz-linear-gradient(top , #fff, #f0f0f0);
+	background: -o-linear-gradient(top , #fff, #f0f0f0);
+	background: -ms-linear-gradient(top , #fff, #f0f0f0);
+	background: linear-gradient(top , #fff, #f0f0f0);
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr='#ffffff', endColorstr='#f0f0f0'); /* IE 7 */
+	-ms-filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr='#ffffff', endColorstr='#f0f0f0'); /* IE 8 */
+}
+.social-impact-widget a span em {
+	font-size: 14px;
+}
+.social-impact-widget {
+	background: -webkit-linear-gradient(top, #ececec, #ddd);
+	background: -moz-linear-gradient(top, #ececec, #ddd);
+	background: -o-linear-gradient(top, #ececec, #ddd);
+	background: -ms-linear-gradient(top, #ececec, #ddd);
+	background: linear-gradient(top, #ececec, #ddd);
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr='#ececec', endColorstr='#dddddd'); /* IE 7 */
+	-ms-filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr='#ececec', endColorstr='#dddddd'); /* IE 8 */
+}
+.social-impact-widget a {
+	background: url(../images/social-impact.png) no-repeat !important;
+}
+.social-impact-widget.twitter a {
+	background-position: 0 50% !important;
+}
+.social-impact-widget.googleplus a {
+	background-position: -58px 50% !important;
+}
+.social-impact-widget.facebook a {
+	background-position: -115px 50% !important;
+}
+.social-impact-widget.feedburner a {
+	background-position: -173px 50% !important;
+}
+.social-impact-widget.appnet a {
+	background-position: -231px 50% !important;
+}

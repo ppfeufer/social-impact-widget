@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Impact Widget v1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-03-15 19:17:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: social-impact-widget.php:0
+#: social-impact-widget.php:88
+#@ social-impact-widget
+msgid "Social Impact Widget"
+msgstr "Social Impact Widget"
+
+#: social-impact-widget.php:126
+#@ social-impact-widget
+msgid "Title"
+msgstr "Titel"
+
+#: social-impact-widget.php:131
+#@ social-impact-widget
+msgid "Twitter-ID:"
+msgstr "Twitter-ID:"
+
+#: social-impact-widget.php:131
+#: social-impact-widget.php:136
+#@ social-impact-widget
+msgid "(without @)"
+msgstr "(ohne @)"
+
+#: social-impact-widget.php:141
+#@ social-impact-widget
+msgid "Googleplus-ID:"
+msgstr "Googleplus-ID:"
+
+#: social-impact-widget.php:146
+#@ social-impact-widget
+msgid "Facebook Fanpage-ID:"
+msgstr "Facebook Fanpage-ID:"
+
+#: social-impact-widget.php:300
+#@ social-impact-widget
+msgid "Twitter"
+msgstr "Twitter"
+
+#: social-impact-widget.php:300
+#: social-impact-widget.php:307
+#@ social-impact-widget
+msgid "Follower"
+msgstr "Follower"
+
+#: social-impact-widget.php:315
+#@ social-impact-widget
+msgid "Google+"
+msgstr "Google+"
+
+#: social-impact-widget.php:315
+#@ social-impact-widget
+msgid "Circles"
+msgstr "Kreise"
+
+#: social-impact-widget.php:322
+#@ social-impact-widget
+msgid "Facebook"
+msgstr "Facebook"
+
+#: social-impact-widget.php:322
+#@ social-impact-widget
+msgid "Fans"
+msgstr "Fans"
+
+#: social-impact-widget.php:368
+#: social-impact-widget.php:413
+#: social-impact-widget.php:457
+#: social-impact-widget.php:502
+#@ social-impact-widget
+msgid "Some"
+msgstr "Einige"
+
+#: social-impact-widget.php:141
+#@ social-impact-widget
+msgid "(User or pages)"
+msgstr "(Nutzer oder Seiten)"
+
+#: social-impact-widget.php:156
+#@ social-impact-widget
+msgid "Clear Cache"
+msgstr "Cache löschen"
+
+#: social-impact-widget.php:155
+#@ social-impact-widget
+msgid "Cachehandling:"
+msgstr "Cachebehandlung:"
+
+#. translators: plugin header field 'PluginURI'
+#: social-impact-widget.php:0
+#@ social-impact-widget
+msgid "http://ppfeufer.de/wordpress-plugin/social-impact-widget/"
+msgstr "http://ppfeufer.de/wordpress-plugin/social-impact-widget/"
+
+#. translators: plugin header field 'Author'
+#: social-impact-widget.php:0
+#@ social-impact-widget
+msgid "H.-Peter Pfeufer"
+msgstr "H.-Peter Pfeufer"
+
+#. translators: plugin header field 'AuthorURI'
+#: social-impact-widget.php:0
+#@ social-impact-widget
+msgid "http://ppfeufer.de"
+msgstr "http://ppfeufer.de"
+
+#. translators: plugin header field 'Version'
+#: social-impact-widget.php:0
+#@ social-impact-widget
+msgid "1.5"
+msgstr ""
+
+#: social-impact-widget.php:136
+#@ social-impact-widget
+msgid "App.net-ID:"
+msgstr "App.net-ID:"
+
+#: social-impact-widget.php:164
+#@ social-impact-widget
+msgid "Like the Plugin?:"
+msgstr "Dir gefällt das Plugin?"
+
+#: social-impact-widget.php:307
+#@ social-impact-widget
+msgid "App.net"
+msgstr "App.net"
+
+#: social-impact-widget.php:582
+#@ social-impact-widget
+msgid "What's new:"
+msgstr "Was ist neu:"
+
+#. translators: plugin header field 'Description'
+#: social-impact-widget.php:0
+#: social-impact-widget.php:83
+#@ social-impact-widget
+msgid "Displaying the count of your follwers on twitter and app.net, your circles on googleplus and the fans of your facebook fanpage in your sidebar."
+msgstr "Zeigt die Anzahl Deiner Follower bei Twitter und App.net, Deiner Kreise bei Google+ und der Fans Deiner Facebook Fanpage in der Sidebar an."
+
