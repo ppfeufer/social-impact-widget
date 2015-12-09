@@ -1,1 +1,1 @@
-# social-impact-widget
+# Social Impact Widget
